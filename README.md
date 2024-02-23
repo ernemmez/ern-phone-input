@@ -1,20 +1,19 @@
 <h1 align="center">ern-phone-input</h1>
-
-## Overview
-ern-phone-input stands out as a user-friendly input field for phone numbers, seamlessly predicting the country and formatting the entered phone number accordingly by default.For international phone numbers, users can effortlessly choose their country from a dropdown menu.
+<p align="center">
+<b>ern-phone-input</b> stands out as a user-friendly input field for phone numbers, seamlessly predicting the country and formatting the entered phone number accordingly by default.For international phone numbers, users can effortlessly choose their country from a dropdown menu.
 
 By incorporating the prop `format='NATIONAL'` and specifying a `defaultCountry='DE'`, the input field showcases its simplicity by automatically formatting the entered phone number in the national format supported by the default country.
-
+</p>
 
 ## Installation
 npm:
 ```sh
-npm i -S react-phonenr-input
+npm i ern-phone-input
 ```
 
 yarn:
 ```sh
-yarn add react-phonenr-input
+yarn add ern-phone-input
 ```
 
 #### Props:
@@ -122,12 +121,8 @@ const Example = () => {
 }
 ```
 
-#### Optimized for Mobile usage
-
-<img src="https://raw.githubusercontent.com/KaiHotz/React-PhoneNr-Input/master/styleguide/mobile.png" width="200" alt="mobile">
-
 
 ## Support
-If you like the project and want to support my work, you can buy me a coffee :)
+If you like the project and want to support me, you can buy me a coffee :)
 
-[![paypal](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/kaihotz)
+[![buymeacoffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/ernemmez)
