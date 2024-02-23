@@ -12,7 +12,7 @@
     "url": "https://github.com/ernemmez/ern-phone-input.git"
   },
   "homepage": "https://github.com/ernemmez/ern-phone-input",
-  "license":"MIT",
+  "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
@@ -61,7 +61,7 @@
     "@storybook/react-vite": "^7.3.2",
     "@storybook/testing-library": "^0.2.0",
     "@svgr/rollup": "^8.1.0",
-    "@testing-library/jest-dom": "^6.1.2",
+    "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^14.4.3",
     "@types/lodash.omit": "^4.5.7",
