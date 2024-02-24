@@ -1,9 +1,10 @@
-<h1 align="center">ern-phone-input</h1>
-<p align="center">
-<b>ern-phone-input</b> stands out as a user-friendly input field for phone numbers, seamlessly predicting the country and formatting the entered phone number accordingly by default.For international phone numbers, users can effortlessly choose their country from a dropdown menu.
+# ern-phone-input
 
-By incorporating the prop `format='NATIONAL'` and specifying a `defaultCountry='DE'`, the input field showcases its simplicity by automatically formatting the entered phone number in the national format supported by the default country.
-</p>
+<div>
+  <b>ern-phone-input</b>
+  <p>stands out as a user-friendly input field for phone numbers, seamlessly predicting the country and formatting the entered phone number accordingly by default.For international phone numbers, users can effortlessly choose their country from a dropdown menu.</p>
+  <p>By incorporating the prop `format='NATIONAL'` and specifying a `defaultCountry='DE'`, the input field showcases its simplicity by automatically formatting the entered phone number in the national format supported by the default country.</p>
+</div>  
 
 ## Installation
 npm:
