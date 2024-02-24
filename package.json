@@ -123,6 +123,6 @@
     ]
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@ernemmez"
+    "@ernemmez:registry": "https://npm.pkg.github.com"
   }
 }
